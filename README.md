@@ -12,9 +12,3 @@ This is the same Female SuperVillain Trading Card App as the [template version](
 ### Future Plans
 I'll probably use this app as a template for building different types of trading card apps with different themes for practice, such as those related to my current J-Pop (Japanese Pop) fandoms, namely using REST API. When the app does get populated with a lot of data, this version would be the perfect fit.
 
-### Some Links if You're Bored
-- [The ADRICULOUS Life](https://adriculous.life) - personal (non-niche) blog
-- [The NINPOJineous](https://ninpojineous.ninja) - tech learning blog
-- [Adri Mars INK](https://adrimars.ink) - art and fiction stories blog
-- [AXCEL STYLE](https://axcel.style) - MADKID (J-Pop boy group) fan site
-
